@@ -1,1 +1,1 @@
-This repository is my road of learning CS61A.
+This repository is my trajectory of learning CS61A.
